@@ -1,0 +1,96 @@
+body {
+    background-color: #bdd4bc;
+    font-family: "Raleway", sans-serif;
+    
+    font-size: 15px;
+}
+
+body > header {
+    background-color: #d0e8cf;
+    padding: 10px;
+    color: #598366;
+    border-radius: 10%;
+    margin: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav-ul {
+    display: flex;
+}
+
+#nav-ul > li {
+    padding: 8px;
+}
+
+body > header > nav > ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton {
+    color: #3c5745;
+    text-decoration: none;
+}
+
+body > main {
+    width: 90%;
+    margin: auto;
+}
+
+
+img{
+    border-radius: 50%;
+}
+
+body > footer {
+    background-color: #d0e8cf;
+    padding: 10px;
+   display: flex;
+}
+
+#footer-ul {
+    display: flex;
+    list-style: none;
+}
+
+#footer-ul > div > li {
+    margin-left: 50px;
+
+}
+
+#footer-ul > div > li > a {
+    color: #3c5745;
+    text-decoration: none;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#signup {
+    text-align: center;
+}
+
+FORM DL {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#subscribe_butt {
+    background-color: #598366;
+    padding: 10px;
+    font-family: "Raleway", sans-serif;
+    border-radius: 25px;
+    border-color: #d0e8cf;
+    color: #d0e8cf;
+}
