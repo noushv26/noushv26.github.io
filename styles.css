@@ -39,8 +39,12 @@ body > main {
 }
 
 
-img{
+img {
     border-radius: 50%;
+}
+
+#batur {
+    border-radius: none;
 }
 
 body > footer {
