@@ -6,7 +6,7 @@ body {
 }
 
 body > header {
-    background-color: #b293b2;
+    background-color: #dccddc;
     padding: 10px;
     color: #6e5b6e;
     border-radius: 10%;
@@ -48,7 +48,7 @@ img {
 
 
 body > footer {
-    background-color: #b293b2;
+    background-color: #dccddc;
     padding: 10px;
    display: flex;
 }
@@ -95,6 +95,6 @@ FORM DL {
     padding: 10px;
     font-family: "Raleway", sans-serif;
     border-radius: 25px;
-    border-color: #b293b2;
-    color: #b293b2;
+    border-color: #dccddc;
+    color: #dccddc;
 }
