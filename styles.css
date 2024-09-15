@@ -1,14 +1,14 @@
 body {
-    background-color: #bfbcd4;
+    background-color: #a89ca8;
     font-family: "Raleway", sans-serif;
     
     font-size: 15px;
 }
 
 body > header {
-    background-color: #d0e8cf;
+    background-color: #b293b2;
     padding: 10px;
-    color: #598366;
+    color: #6e5b6e;
     border-radius: 10%;
     margin: 30px;
     display: flex;
@@ -29,7 +29,7 @@ body > header > nav > ul {
 }
 
 .navbutton {
-    color: #3c5745;
+    color: #6e5b6e;
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ img {
 
 
 body > footer {
-    background-color: #d0e8cf;
+    background-color: #b293b2;
     padding: 10px;
    display: flex;
 }
@@ -64,7 +64,7 @@ body > footer {
 }
 
 #footer-ul > div > li > a {
-    color: #3c5745;
+    color: #6e5b6e;
     text-decoration: none;
 }
 
@@ -91,10 +91,10 @@ FORM DL {
 }
 
 #subscribe_butt {
-    background-color: #598366;
+    background-color: #6e5b6e;
     padding: 10px;
     font-family: "Raleway", sans-serif;
     border-radius: 25px;
-    border-color: #d0e8cf;
-    color: #d0e8cf;
+    border-color: #b293b2;
+    color: #b293b2;
 }
