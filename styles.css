@@ -40,13 +40,11 @@ body > main {
 
 
 img {
-    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
 }
 
-#batur {
-    border-radius: 2%;
-    height: 200px;
-}
+
 
 body > footer {
     background-color: #d0e8cf;
